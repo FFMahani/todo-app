@@ -77,5 +77,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 ---
 
 👩‍💻 Author
+
 This project is designed and developed by Fatemeh Fouladi Mahani
+
 📧 Contact: fouladi.dev@gmail.com
