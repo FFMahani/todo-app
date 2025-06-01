@@ -10,7 +10,7 @@ This is a beautifully designed and responsive Todo List web application built wi
 - Local storage persistence
 - Clean and elegant user interface
 
-![App Screenshot](./screenshot.png)
+![App Screenshot](./public/screenshot.png)
 
 ---
 
@@ -76,4 +76,6 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Built with ❤️ by [@FFMahani](https://github.com/FFMahani)
+👩‍💻 Author
+This project is designed and developed by Fatemeh Fouladi Mahani
+📧 Contact: fouladi.dev@gmail.com
