@@ -19,7 +19,7 @@ This is a beautifully designed and responsive Todo List web application built wi
 - ✅ Add, delete, and edit your tasks
 - ✅ Mark tasks as done/undone
 - 💾 Tasks persist in **local storage**
-- 📱 Mobile-first and fully **responsive** design
+- 📱 Fully **responsive** design
 - 🌈 Elegant UI with smooth transitions
 - 🔁 Keyboard interaction (e.g., Enter to add)
 
